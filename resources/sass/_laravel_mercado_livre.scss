@@ -1,0 +1,16 @@
+// Colors
+$yellow_ml: #fff159;
+$blue_ml: #1259c3;
+$black_mk: #333;
+
+.bg-ml {
+    background-color: $yellow_ml;
+}
+
+.text-primary-ml {
+    color: $black_mk;
+}
+
+.text-secondary-ml {
+    color: $blue_ml;
+}
